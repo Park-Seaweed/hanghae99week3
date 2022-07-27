@@ -1,4 +1,4 @@
-package com.sparta.week03homework;
+package com.sparta.week03homework.controller;
 
 import com.sparta.week03homework.domain.Blog;
 import com.sparta.week03homework.domain.BlogRepository;
